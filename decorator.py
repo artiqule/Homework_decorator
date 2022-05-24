@@ -13,5 +13,3 @@ def decor_logger(old_func):
         )
         return res
     return foo
-
-
