@@ -12,7 +12,6 @@ def decor_logger(old_func):
                 f'Возвращаемое значение: {res}'
         )
         return res
-
     return foo
 
 
